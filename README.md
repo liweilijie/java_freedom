@@ -6,3 +6,13 @@ Java是我一直以来最不喜欢的一门笨重的语言. 或许将来我做�
 ## 基础知识
 
 [基础知识的学习](basic.md)
+
+## 安装
+
+[https://dani.gg/en/blog/install-and-update-java-jdk-on-macos/](https://dani.gg/en/blog/install-and-update-java-jdk-on-macos/)
+
+设置 `JAVA_HOME`:
+
+```bash
+export JAVA_HOME=`/usr/libexec/java_home`
+```
